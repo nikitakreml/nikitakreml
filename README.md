@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 Coding for 4 years, 1 year of commercial experience in Python development.
-* 🧠  I'm learning NodeJS
+* 🧠  I'm learning NodeJS, FastAPI
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
